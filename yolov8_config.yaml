@@ -1,0 +1,5 @@
+train: DATASET/train/images
+val: DATASET/valid/images
+
+nc: 6
+names: ['blackBottle', 'blackblueBottle', 'blueBigBottle', 'blueBottle', 'greenBottle', 'yellowBottle']

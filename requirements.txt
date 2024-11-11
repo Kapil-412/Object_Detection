@@ -1,0 +1,6 @@
+ultralytics
+pillow
+tk
+pandas
+openpyxl
+opencv-python-headless
